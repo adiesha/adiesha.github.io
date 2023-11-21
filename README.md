@@ -75,6 +75,10 @@ Parallel and Distributed Computing (ISPDC) 2017, Innsbruck, Austria
 - The Sales Leads Management System addressed a segment of an ERP system focused on managing sales leads within a company. 
 - This application can record, monitor, analyze sales Leads and generate performance reports for a given time period.
 - I improved my skills in system design, design patterns, object-oriented programming, database management, reporting, and user interface design, along with my experience in C# and SQL
-- **Technologies and Concepts:** C\#, MySQL, OOP 
+- **Technologies and Concepts:** C\#, MySQL, OOP
+
+### Image based ballot-paper (vote) counting software
+- This software was developed to read, count and classify Sri Lankan parliamentary election ballot papers. This software can recognize the party and up to three preferential votes. Software would process all the ballot papers assigned to it and output the cumulative results to the users.
+- Technologies: OpenCV, C++
 
 
