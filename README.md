@@ -1,7 +1,7 @@
 # Computer Scientist | Software Engineer | Ph.D. Student (ABD)
 
 ## Education 
-- **Ph.D. (ABD) Computer Science | Montana State University (May 2024) **
+- **Ph.D. (ABD) Computer Science | Montana State University (May 2024)**
   - Thesis : **String Analysis and Algorithms with Genomics Applications**
   - Advisor: Dr. Binhai Zhu
   - GPA: 3.87
