@@ -23,6 +23,7 @@
 - Built automated bamboo CI pipeline to automate regression testing.
 - During my time at LSEG technology, I gained experience in Java, Scala, C++, Python, SQL, CSS and JS languages and frameworks and technologies like IBM MQ, Vaadin, Oracle DB, Bamboo, Jasper and Akka, Cucumber, TestNG, Git, Linux.
 - Experience in building scalable, distributed, multi-traded applications.
+  
 **Software Engineer Intern at Proavos (pvt) Ltd. (now renamed under new leadership) (Nov. 2015 - Apr. 2016)**
   - Proavos was a startup company aiming to build state of the art software solutions and services for airlines, airports, travel agents and leisure companies.
   - I worked as a full stack developer working on both back-end and front-end.
