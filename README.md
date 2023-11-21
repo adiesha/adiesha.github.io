@@ -1,13 +1,13 @@
 # Computer Scientist | Software Engineer | Ph.D. Student (ABD)
 
 ## Education 
-- **Ph.D. (ABD) Computer Science | Montana State University (May 2024)**
+- **Ph.D. (ABD) Computer Science** | **Montana State University (May 2024)**
   - Thesis : **String Analysis and Algorithms with Genomics Applications**
   - Advisor: Dr. Binhai Zhu
   - GPA: 3.87
   - Worked as an Instructor and a Graduate Teaching Assistant
   
-- **B.Sc. (Hons) Computer Science & Engineering | University Of Moratuwa (2017)**
+- **B.Sc. (Hons) Computer Science & Engineering** | **University Of Moratuwa (2017)**
   - GPA: 3.64
 
 ## Work Experience
