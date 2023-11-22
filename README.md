@@ -10,6 +10,15 @@
 - **B.Sc. (Hons) Computer Science & Engineering** | **University Of Moratuwa (2017)**
   - GPA: 3.64
 
+## Skills and Experience
+- Programming: JAVA, SCALA, Python, C, C++, SQL, HTML, C#, CSS, Assembly, JS, PHP
+- Technologies: OpenStack, JavaEE, Akka, Vaadin, Jasper, IBM MQ, TestNG
+- Tools: Git, Maven, Bamboo, Make, IntelliJ
+- Additional Skills: Experience in developing Arduino based projects
+- Programming Experience: 3+ years of programming, design and full stack developer experience.
+- 4 years of research and teaching experience.
+
+
 ## Work Experience
 **Senior Software Engineer at London Stock Exchange Technologies (part of London Stock Exchange Group) (Apr. 2017 - Aug. 2019)**
 - LSEG Technology is the technology arm of the London Stock Exchange Group. LSEG technology excels in Market Infrastructure technology suite that includes robust, scalable and high-performance solution for operators of exchanges, clearing houses, central securities depositories and related businesses.
