@@ -17,6 +17,7 @@
 - Additional Skills: Experience in developing Arduino based projects
 - Programming Experience: 3+ years of programming, design and full stack developer experience.
 - 4 years of research and teaching experience.
+- 7 years of combined programming, research and teaching experience
 
 
 ## Work Experience
