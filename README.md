@@ -79,6 +79,6 @@ Parallel and Distributed Computing (ISPDC) 2017, Innsbruck, Austria
 
 ### Image based ballot-paper (vote) counting software
 - This software was developed to read, count and classify Sri Lankan parliamentary election ballot papers. This software can recognize the party and up to three preferential votes. Software would process all the ballot papers assigned to it and output the cumulative results to the users.
-- Technologies: OpenCV, C++
+- **Technologies:** OpenCV, C++
 
 
