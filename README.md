@@ -84,13 +84,17 @@ Parallel and Distributed Computing (ISPDC) 2017, Innsbruck, Austria
 ## Publications
 ### Beyond the Longest Letter-Duplicated Subsequence Problem
 - Published in 33rd Annual Symposium on Combinatorial Pattern Matching (CPM) (June. 2022, Prague, Czech Republic)
+- [Link](http://doi.org/10.4230/LIPIcs.CPM.2022.7)
 
 ### The Complexity of Finding Common Partitions of Genomes with Predefined Block Sizes
 - Published in 19th RECOMB Satellite Conference on Comparative Genomics (RECOMB‑CG) (May. 2022, La Jolla, US)
+- [Link](https://doi.org/10.1007/978-3-031-06220-9_7)
 
 ### The Longest Subsequence‑Repeated Subsequence Problem
 - Accepted in The 16th Annual International Conference on Combinatorial Optimization and Applications (COCOA’23)
 - This conference proceedings will take place in December 2023 in Honolulu, US
+- [Link](https://doi.org/10.48550/arXiv.2304.06862)
   
 ### Three‑tier Private Cloud Application Management System with On‑Site Hardware
 - Published in International Symposium On Parallel and Distributed Computing (ISPDC) (July. 2017 Innsbruck, Austria)
+- [Link](https://doi.org/10.1109/ISPDC.2017.22)
