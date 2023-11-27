@@ -66,6 +66,7 @@
 - Contributed to front-end development (Vaadin, JavaScript, HTML)
 - Gained **2.5 years** of experience in Distributed system development, large-scale system development, large-scale database handling and front-end development.
 - Gained **2.5 years** of experience in **Java, Scala, C++, Python, JavaScript**.
+
 ### Fortress-PT
 - This was a testing framework that is used to test Millennium Post Trade system that was developed by London Stock Exchange Technologies. With the help of this framework users can write tests suites using domain specific objects without worrying about underlying system specific technical details.
 - This testing framework proved instrumental in enhancing testing efficiency within agile working cycles.
