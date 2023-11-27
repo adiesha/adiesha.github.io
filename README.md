@@ -57,6 +57,15 @@
     - Data Structures and Algorithms – CSCI 232 
 
 ## Projects
+### Post-Trade Product (LSEG Technology)
+- This project was the Post‑Trade product developed for Singapore Stock Exchange (SGX)
+- This system processes trade orders submitted by the Singapore stock exchange. This system is responsible for processing and settling trade orders, contacting various external and internal systems to determine the securities and money that needs to be exchanged between participants, processing various messages from external systems and conducting various corporate actions on securities and depository management.
+- This system processes a massive amount of data in real‑time and as a batch that deals with settlements of the trades (orders) sent by the stock exchange.
+- System communicates with a large number of internal and external systems, such as banks, depositories, clearing houses, stock exchanges, databases, brokers, reporting systems, regulators, etc.
+- Contributed to development of large-scale, distributed gateways and engines related to the system (Java, Scala, C++)
+- Contributed to front-end development (Vaadin, JavaScript, HTML)
+- Gained **2.5 years** of experience in Distributed system development, large-scale system development, large-scale database handling and front-end development.
+- Gained **2.5 years** of experience in **Java, Scala, C++, Python, JavaScript**.
 ### Fortress-PT
 - This was a testing framework that is used to test Millennium Post Trade system that was developed by London Stock Exchange Technologies. With the help of this framework users can write tests suites using domain specific objects without worrying about underlying system specific technical details.
 - This testing framework proved instrumental in enhancing testing efficiency within agile working cycles.
@@ -79,6 +88,8 @@ Parallel and Distributed Computing (ISPDC) 2017, Innsbruck, Austria
 - This system communicates with the BSP system to send, receive and generate BSP information and reports.
 - System communicates using differnt types of text and XML message standards defined by IATA standards.
 - I helped to design, develop, and test this framework from scratch.
+- I worked as a full stack developer
+- Gained **6 months** experience in **Java, JavaEE, JavaScript, CSS, HTML, UI design**
 - **Technologies, Platform and Experience:** Java EE, SFTP, HTML, CSS, JavaScript, Linux, Git, UI design.
 
 ### Sales Leads Management System 
