@@ -1,5 +1,6 @@
 title: Adiesha Liyanage
 logo: /assets/img/circle_me.png
+is_project_page: false
 #description: text to be shown
 # show_downloads: true
 theme: jekyll-theme-minimal
