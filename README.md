@@ -1,4 +1,4 @@
-# Computer Scientist | Software Engineer | Ph.D. in 
+# Computer Scientist | Software Engineer | Ph.D. in Computer Science
 
 ## Education 
 - **Ph.D. Computer Science** | **Montana State University (May 2024)**
