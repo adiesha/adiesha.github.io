@@ -1,7 +1,7 @@
-# Computer Scientist | Software Engineer | Ph.D. Student (ABD)
+# Computer Scientist | Software Engineer | Ph.D. in 
 
 ## Education 
-- **Ph.D. (ABD) Computer Science** | **Montana State University (May 2024)**
+- **Ph.D. Computer Science** | **Montana State University (May 2024)**
   - Thesis : **String Analysis and Algorithms with Genomics Applications**
   - Advisor: Dr. Binhai Zhu
   - GPA: 3.87
@@ -21,6 +21,11 @@
 
 
 ## Work Experience
+**Assistant Teaching Professor (Montana State University) (Aug. 2024 - present)**
+- Courses: [Discrete Structures](https://github.com/adiesha/CSCI246Fall2024), [Operating Systems](https://github.com/adiesha/CSCI460Fall2024)
+- Conduct research on analyzing hardness of computational biology problems using complexity theory and develop exact, approximation, FPT and heuristics algorithms to solve them.
+- Focus: Computer Theory, Machine Learning, Computational Biology
+  
 **Senior Software Engineer at London Stock Exchange Technologies (part of London Stock Exchange Group) (Apr. 2017 - Aug. 2019)**
 - LSEG Technology is the technology arm of the London Stock Exchange Group. LSEG technology excels in Market Infrastructure technology suite that includes robust, scalable and high-performance solution for operators of exchanges, clearing houses, central securities depositories and related businesses.
 - I worked on the Post Trade product developed for Singapore Stock Exchange (SGX)
